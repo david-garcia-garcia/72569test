@@ -1,0 +1,4 @@
+D:\Repositories\72569test\library\mytestlibrary\bin\Debug\mytestlibrary.dll
+D:\Repositories\72569test\library\mytestlibrary\bin\Debug\mytestlibrary.pdb
+D:\Repositories\72569test\library\mytestlibrary\obj\Debug\mytestlibrary.dll
+D:\Repositories\72569test\library\mytestlibrary\obj\Debug\mytestlibrary.pdb

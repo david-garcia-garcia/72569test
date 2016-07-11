@@ -1,0 +1,15 @@
+1. Build the project in library\mytestlibrary\mytestlibrary.sln
+2. Register the component using an elevated prompt in library\mytestlibrary\bin\Debug\ and running "register.bat"
+3. Setup a PHP site on IIS that points to /phpcode and run index.PHP (make sure that the com_dotnet extension is enabled in php.ini)
+
+On PHP < 7 it will output:
+
+System.String@System.Int32@System.String@System.String
+
+System.String@System.Int32@System.String@System.String
+
+On PHP 7 it will output:
+
+System.String@System.Int32@System.String@System.String
+
+System.String@System.Int32@System.DBNull@System.DBNull
